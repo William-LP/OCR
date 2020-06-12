@@ -1,5 +1,12 @@
 # Optical Character Recognition
 
+## Server 
+
+```
+34.205.65.225
+```
+
+
 ## Prerequisite
 
 ### Install Tesseract 4.0 on Ubuntu 18.04

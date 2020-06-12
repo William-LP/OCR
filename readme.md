@@ -1,6 +1,5 @@
 # Optical Character Recognition
 
-
 ## Prerequisite
 
 ### Install Tesseract 4.0 on Ubuntu 18.04
@@ -28,4 +27,6 @@ If you need both main and contrib modules (server) : ``` pip install opencv-cont
 * [PyTesseract](https://pypi.org/project/pytesseract/)
 
 
+## Usage
 
+        python ocr_simple.py image.jpg

@@ -13,24 +13,19 @@ sudo pip install pytesseract
 
 ### OpenCV
 
-If you need only main modules :
+If you need only main modules (standard desktop) : ```  pip install opencv-python  ```
 
-        pip install opencv-python 
-If you need both main and contrib modules :
+If you need both main and contrib modules  (standard desktop) : ``` pip install opencv-contrib-python ```
 
-        pip install opencv-contrib-python
+**If you need only main modules (server) :** ```pip install opencv-python-headless ``` 
 
-If you need only main modules :
-
-        pip install opencv-python-headless 
-
- if you need both main and contrib modules :
-
-        pip install opencv-contrib-python-headless
+If you need both main and contrib modules (server) : ``` pip install opencv-contrib-python-headless```
 
 ## Source
 
 * [Tutorial](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
 * [OpenCV](https://pypi.org/project/opencv-python/)
 * [PyTesseract](https://pypi.org/project/pytesseract/)
+
+
 
